@@ -1,0 +1,8 @@
+dj.database-url
+django==1.10.4
+requests
+gunicorn
+whitenoise
+psycopg2
+bs4
+lxml
